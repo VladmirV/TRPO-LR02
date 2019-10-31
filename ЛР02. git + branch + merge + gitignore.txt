@@ -1,4 +1,4 @@
-﻿Лабораторная работа №2 Second changes from the branch "master" 
+First changes from the branch Лабораторная работа №2 Second changes from the branch "master" 
 Цель: Изучить основные команды системы контроля версий git
 Алгоритм действий:
 1. Скачать и установить программу git с официального сайта
